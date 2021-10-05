@@ -63,7 +63,7 @@
 
 
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1005/154415_4b0e4f86_9463083.png "code1.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/1005/154511_95963cf2_9463083.png "code1.png")
 
 
 
@@ -107,7 +107,7 @@ str1=str2,return 0
 
 进入global：
 
-<img src="%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B02021.9.27/image-20210927205449318.png">
+![输入图片说明](https://images.gitee.com/uploads/images/2021/1005/154651_abba63d9_9463083.png "global.png")
 
 ## 2.用结果实现逆运算
 
@@ -236,8 +236,7 @@ else2：s[i]不是字符，同上
 
 答案如下：
 
-<img src='%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B02021.9.27/image-20211005150624134.png'>
-
+![输入图片说明](https://images.gitee.com/uploads/images/2021/1005/154704_1af0aeda_9463083.png "flag.png")
 
 
 得到flag{QianQiuWanDai_YiTongJiangHu}
