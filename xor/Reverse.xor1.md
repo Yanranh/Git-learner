@@ -8,8 +8,7 @@
 
 常规思路：
 
-<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210927202121361.png" style="zoom: 200%;" >
-
+![流程图](https://images.gitee.com/uploads/images/2021/1005/154327_8524c5a2_9463083.png "system.png")
 
 
 ## 1.查壳
@@ -26,7 +25,7 @@
 
 查壳工具：万能脱壳工具
 
-<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210927203043717.png">
+![输入图片说明](https://images.gitee.com/uploads/images/2021/1005/154348_cfc77cc6_9463083.png "tool1.png")
 
 **一、查壳功能：**
 
@@ -56,7 +55,7 @@
 
 
 
-<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210927203517524.png">
+![输入图片说明](https://images.gitee.com/uploads/images/2021/1005/154405_b6a8d8dc_9463083.png "tool2.png")
 
 #### 1.2
 
@@ -64,7 +63,7 @@
 
 
 
-<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210927203908086.png">
+![输入图片说明](https://images.gitee.com/uploads/images/2021/1005/154415_4b0e4f86_9463083.png "code1.png")
 
 
 
