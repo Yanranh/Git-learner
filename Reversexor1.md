@@ -8,9 +8,9 @@
 
 常规思路：
 
-<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210927202121361.png" style="zoom: 200%;" >
 
 
+![system](https://i.loli.net/2021/10/12/pyklczDj4FWKSIT.png)
 
 ## 1.查壳
 
@@ -26,7 +26,7 @@
 
 查壳工具：万能脱壳工具
 
-<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210927203043717.png">
+![tool1](https://i.loli.net/2021/10/12/islS7ZVB6mXtg4G.png)
 
 **一、查壳功能：**
 
@@ -56,7 +56,7 @@
 
 
 
-<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210927203517524.png">
+![tool2](https://i.loli.net/2021/10/12/IPB3OEvMxDbUsgZ.png)
 
 #### 1.2
 
@@ -64,9 +64,9 @@
 
 
 
-<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210927203908086.png">
 
 
+![code1](https://i.loli.net/2021/10/12/hTjapZnUyfQmCdF.png)
 
 ### 2.什么是异或？
 
@@ -94,7 +94,7 @@ n：要比较的最大字符数
 
 ##### 2.1.3比较
 
-在前n字节中，两个字符串对应字符的ASCLL码大小
+在前n字节中，两个字符串对应字符总的ASCLL码大小
 
 ##### 2.1.4结果
 
@@ -106,9 +106,9 @@ str1=str2,return 0
 
 
 
-进入global：
+进入global
 
-<img src="%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B02021.9.27/image-20210927205449318.png">
+![global](https://i.loli.net/2021/10/12/Obd7QfKej2TiGqW.png)
 
 ## 2.用结果实现逆运算
 
@@ -235,9 +235,7 @@ else2：s[i]不是字符，同上
 
 
 
-答案如下：
-
-<img src='%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B02021.9.27/image-20211005150624134.png'>
+![flag](https://i.loli.net/2021/10/12/GXauEZLwJP35sWo.png)
 
 
 
